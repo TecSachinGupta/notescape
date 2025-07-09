@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Markdown preview plugins
+*.html
+*.log
+
+# Obsidian
+.obsidian/
+
+# Draw.io backups
+*.drawio~*
+
+# Diagram source software (optional)
+*.vsdx
+*.bak
+
+# GitBook/mdBook builds
+_book/
+site/
+
+# Assets
+assets/tmp/
+assets/**/*.tmp
