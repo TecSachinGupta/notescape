@@ -1,1 +1,2 @@
 # notescape
+> Creating Notes and adding answers for a lot of question to brush up or review the concepts again. The content is created by using the open AI tools i.e. [Chat GPT](https://chatgpt.com/) and [Claude AI](https://claude.ai/)
