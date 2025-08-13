@@ -1,6 +1,22 @@
 # Comprehensive Spark & Data Engineering Interview Guide
 
-## 🔥 Spark Architecture & Concepts
+## Table of Contents
+1. 🔥 [Spark Architecture & Concepts - Core Spark fundamentals, DAG, lazy evaluation](#spark-architecture--concepts)
+2. 🔄 [Transformations & Actions - Narrow vs wide transformations, operations](#transformations--actions)
+3. 💾 [Memory Management & Optimization - Caching, persistence, OOM handling](#memory-management--optimization)
+4. 🔗 [Joins & Partitioning - Join strategies, bucketing vs partitioning](#joins--partitioning)
+5. 🗃️ [Data Formats & Storage - Schema designs, fact/dimension tables](#data-formats--storage)
+6. 🐍 [Python Concepts - Data structures, decorators, generators](#python-concepts)
+7. 📊 [SQL & Data Analysis - Window functions, ranking functions](#sql--data-analysis)
+8. 🏗️ [Architecture & Design - Pipeline design, ETL processes](#architechture--design)
+9. ⚡ [Performance Optimization - Tuning techniques, skewness handling](#performance-optimization)
+10. 🔍 [Troubleshooting & Debugging - Log analysis, performance issues](#troubleshooting--debugging)
+11. 📋 [Practical Coding Questions - Real PySpark and Python problems](#practical-coding-questions)
+12. 🔧 [Advanced Topics - UDFs, Delta Lake, SCD types](#advanced-topics)
+13. 🐳 [DevOps & Deployment - CI/CD, scheduling](#devops--deployment)
+14. 🧮 [Mathematical & Algorithm Questions - Complexity analysis, puzzles](#mathematical--algorithm-questions)
+
+## 🔥 Spark Architecture & Concepts 
 
 ### ❓ Question 1. What is Spark Architecture?
 #### Answer:
